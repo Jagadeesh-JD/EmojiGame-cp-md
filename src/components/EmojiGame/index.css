@@ -1,17 +1,17 @@
 /* Write your code here. */
-.game-container {
+.mainDiv {
   background-image: linear-gradient(to bottom, #9796f0, #fbc7d4);
   background-size: cover;
   min-height: 100vh;
 }
-.body-container {
+.bodyDiv {
   display: flex;
   flex-direction: row;
   justify-content: center;
   align-items: center;
   min-height: 80vh;
 }
-.emojicardUl {
+.ulDiv {
   list-style-type: none;
   display: flex;
   justify-content: center;
