@@ -2,7 +2,7 @@
 import './index.css'
 
 const NavBar = props => {
-  const {currentScore, topScore, gameIsRunning} = props
+  const {currentScore, topScore,isGameInProgress} = props
 
   return (
     <nav className="navbar">
